@@ -109,7 +109,7 @@ div.my-header {
 }
 
 div.my-footer {
-    background-color: #272822;
+    background-color: #173541;
     position: absolute;
     bottom: 0px;
     left: 0px;
@@ -121,6 +121,14 @@ div.my-footer span {
     color: #F7F8FA;
     position: absolute;
     left: 15px;
+    bottom: 2px;
+}
+
+div.my-footer .logo {
+    font-size: 10pt;
+    color: #F7F8FA;
+    position: absolute;
+    left: 415px;
     bottom: 2px;
 }
 
