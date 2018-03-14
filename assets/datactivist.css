@@ -1,9 +1,9 @@
-@link url(https://fonts.googleapis.com/css?family=Montserrat:900);
-@link url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic);
-@link url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:900);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
 
 
-body { font-family: 'Open Sans', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif; }
+body { font-family: 'Open Sans', serif; }
 
 .remark-slide-content {
   background-color: #fff1eb;
@@ -113,7 +113,7 @@ div.my-footer {
     position: absolute;
     bottom: 0px;
     left: 0px;
-    height: 20px;
+    height: 25px;
     width: 100%;
 }
 div.my-footer span {
@@ -121,7 +121,7 @@ div.my-footer span {
     color: #F7F8FA;
     position: absolute;
     left: 15px;
-    bottom: 2px;
+    bottom: 5px;
 }
 
 div.my-footer .logo {
@@ -129,12 +129,12 @@ div.my-footer .logo {
     color: #F7F8FA;
     position: absolute;
     left: 415px;
-    bottom: 2px;
+    bottom: 5px;
 }
 
 .remark-slide-number {
   font-size: 10pt;
-  margin-bottom: -11.6px;
+  margin-bottom: -8px;
   margin-right: 10px;
   color: #FFFFFF; /* white */
   opacity: 1; /* default: 0.5 */
